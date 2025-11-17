@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/skummesalma463-pixel/leetcode/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/skummesalma463-pixel/leetcode/tree/master/0009-palindrome-number) |
 ## Recursion
 |  |
 | ------- |
