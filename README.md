@@ -11,6 +11,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/skummesalma463-pixel/leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/skummesalma463-pixel/leetcode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/skummesalma463-pixel/leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/skummesalma463-pixel/leetcode/tree/master/0189-rotate-array) |
 ## Recursion
 |  |
@@ -46,6 +47,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/skummesalma463-pixel/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/skummesalma463-pixel/leetcode/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/skummesalma463-pixel/leetcode/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/skummesalma463-pixel/leetcode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/skummesalma463-pixel/leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/skummesalma463-pixel/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/skummesalma463-pixel/leetcode/tree/master/0283-move-zeroes) |
