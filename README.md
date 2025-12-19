@@ -13,6 +13,7 @@
 | [0009-palindrome-number](https://github.com/skummesalma463-pixel/leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/skummesalma463-pixel/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/skummesalma463-pixel/leetcode/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/skummesalma463-pixel/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/skummesalma463-pixel/leetcode/tree/master/0189-rotate-array) |
 ## Recursion
 |  |
@@ -70,8 +71,13 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/skummesalma463-pixel/leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/skummesalma463-pixel/leetcode/tree/master/0070-climbing-stairs) |
 ## Simulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/skummesalma463-pixel/leetcode/tree/master/0067-add-binary) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/skummesalma463-pixel/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
