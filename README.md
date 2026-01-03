@@ -87,4 +87,20 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/skummesalma463-pixel/leetcode/tree/master/0088-merge-sorted-array) |
+## Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/skummesalma463-pixel/leetcode/tree/master/0101-symmetric-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/skummesalma463-pixel/leetcode/tree/master/0101-symmetric-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/skummesalma463-pixel/leetcode/tree/master/0101-symmetric-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/skummesalma463-pixel/leetcode/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
