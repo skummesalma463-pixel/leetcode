@@ -91,16 +91,20 @@
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/skummesalma463-pixel/leetcode/tree/master/0101-symmetric-tree) |
+| [0112-path-sum](https://github.com/skummesalma463-pixel/leetcode/tree/master/0112-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/skummesalma463-pixel/leetcode/tree/master/0101-symmetric-tree) |
+| [0112-path-sum](https://github.com/skummesalma463-pixel/leetcode/tree/master/0112-path-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/skummesalma463-pixel/leetcode/tree/master/0101-symmetric-tree) |
+| [0112-path-sum](https://github.com/skummesalma463-pixel/leetcode/tree/master/0112-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/skummesalma463-pixel/leetcode/tree/master/0101-symmetric-tree) |
+| [0112-path-sum](https://github.com/skummesalma463-pixel/leetcode/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
