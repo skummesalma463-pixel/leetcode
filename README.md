@@ -16,6 +16,7 @@
 | [0070-climbing-stairs](https://github.com/skummesalma463-pixel/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/skummesalma463-pixel/leetcode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/skummesalma463-pixel/leetcode/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/skummesalma463-pixel/leetcode/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/skummesalma463-pixel/leetcode/tree/master/0415-add-strings) |
 | [2235-add-two-integers](https://github.com/skummesalma463-pixel/leetcode/tree/master/2235-add-two-integers) |
 ## Recursion
@@ -60,6 +61,7 @@
 | [0118-pascals-triangle](https://github.com/skummesalma463-pixel/leetcode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/skummesalma463-pixel/leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/skummesalma463-pixel/leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/skummesalma463-pixel/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/skummesalma463-pixel/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/skummesalma463-pixel/leetcode/tree/master/0485-max-consecutive-ones) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/skummesalma463-pixel/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -68,6 +70,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/skummesalma463-pixel/leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/skummesalma463-pixel/leetcode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/skummesalma463-pixel/leetcode/tree/master/0268-missing-number) |
 ## Trie
 |  |
 | ------- |
@@ -96,6 +99,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/skummesalma463-pixel/leetcode/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/skummesalma463-pixel/leetcode/tree/master/0268-missing-number) |
 ## Tree
 |  |
 | ------- |
@@ -120,4 +124,12 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/skummesalma463-pixel/leetcode/tree/master/0258-add-digits) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/skummesalma463-pixel/leetcode/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/skummesalma463-pixel/leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
