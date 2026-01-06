@@ -15,6 +15,7 @@
 | [0067-add-binary](https://github.com/skummesalma463-pixel/leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/skummesalma463-pixel/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/skummesalma463-pixel/leetcode/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/skummesalma463-pixel/leetcode/tree/master/0258-add-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -81,6 +82,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/skummesalma463-pixel/leetcode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/skummesalma463-pixel/leetcode/tree/master/0258-add-digits) |
 ## Memoization
 |  |
 | ------- |
@@ -109,4 +111,8 @@
 | ------- |
 | [0101-symmetric-tree](https://github.com/skummesalma463-pixel/leetcode/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/skummesalma463-pixel/leetcode/tree/master/0112-path-sum) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/skummesalma463-pixel/leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
