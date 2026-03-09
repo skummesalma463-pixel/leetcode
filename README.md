@@ -58,6 +58,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/skummesalma463-pixel/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/skummesalma463-pixel/leetcode/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/skummesalma463-pixel/leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/skummesalma463-pixel/leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/skummesalma463-pixel/leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/skummesalma463-pixel/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/skummesalma463-pixel/leetcode/tree/master/0088-merge-sorted-array) |
@@ -93,6 +94,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/skummesalma463-pixel/leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/skummesalma463-pixel/leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/skummesalma463-pixel/leetcode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/skummesalma463-pixel/leetcode/tree/master/0415-add-strings) |
@@ -143,4 +145,8 @@
 |  |
 | ------- |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/skummesalma463-pixel/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/skummesalma463-pixel/leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
