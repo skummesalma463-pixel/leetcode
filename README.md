@@ -60,6 +60,7 @@
 | [0053-maximum-subarray](https://github.com/skummesalma463-pixel/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/skummesalma463-pixel/leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/skummesalma463-pixel/leetcode/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/skummesalma463-pixel/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/skummesalma463-pixel/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/skummesalma463-pixel/leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/skummesalma463-pixel/leetcode/tree/master/0118-pascals-triangle) |
@@ -135,6 +136,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/skummesalma463-pixel/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0268-missing-number](https://github.com/skummesalma463-pixel/leetcode/tree/master/0268-missing-number) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/skummesalma463-pixel/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Binary Search
@@ -149,4 +151,5 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/skummesalma463-pixel/leetcode/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/skummesalma463-pixel/leetcode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
