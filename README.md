@@ -68,6 +68,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/skummesalma463-pixel/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/skummesalma463-pixel/leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/skummesalma463-pixel/leetcode/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/skummesalma463-pixel/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/skummesalma463-pixel/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/skummesalma463-pixel/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/skummesalma463-pixel/leetcode/tree/master/0485-max-consecutive-ones) |
@@ -109,6 +110,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/skummesalma463-pixel/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/skummesalma463-pixel/leetcode/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/skummesalma463-pixel/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/skummesalma463-pixel/leetcode/tree/master/0268-missing-number) |
 ## Tree
 |  |
@@ -138,6 +140,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/skummesalma463-pixel/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0217-contains-duplicate](https://github.com/skummesalma463-pixel/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/skummesalma463-pixel/leetcode/tree/master/0268-missing-number) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/skummesalma463-pixel/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Binary Search
