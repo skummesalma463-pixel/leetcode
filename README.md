@@ -52,6 +52,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/skummesalma463-pixel/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0572-subtree-of-another-tree](https://github.com/skummesalma463-pixel/leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Array
 |  |
 | ------- |
@@ -124,6 +125,7 @@
 | [0110-balanced-binary-tree](https://github.com/skummesalma463-pixel/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/skummesalma463-pixel/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/skummesalma463-pixel/leetcode/tree/master/0112-path-sum) |
+| [0572-subtree-of-another-tree](https://github.com/skummesalma463-pixel/leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -131,6 +133,7 @@
 | [0110-balanced-binary-tree](https://github.com/skummesalma463-pixel/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/skummesalma463-pixel/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/skummesalma463-pixel/leetcode/tree/master/0112-path-sum) |
+| [0572-subtree-of-another-tree](https://github.com/skummesalma463-pixel/leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -145,6 +148,7 @@
 | [0110-balanced-binary-tree](https://github.com/skummesalma463-pixel/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/skummesalma463-pixel/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/skummesalma463-pixel/leetcode/tree/master/0112-path-sum) |
+| [0572-subtree-of-another-tree](https://github.com/skummesalma463-pixel/leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Number Theory
 |  |
 | ------- |
@@ -173,4 +177,8 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/skummesalma463-pixel/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/skummesalma463-pixel/leetcode/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
