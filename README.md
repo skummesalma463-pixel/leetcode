@@ -6,6 +6,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/skummesalma463-pixel/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/skummesalma463-pixel/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/skummesalma463-pixel/leetcode/tree/master/0143-reorder-list) |
 ## Math
 |  |
 | ------- |
@@ -25,6 +26,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/skummesalma463-pixel/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/skummesalma463-pixel/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/skummesalma463-pixel/leetcode/tree/master/0143-reorder-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -34,6 +36,7 @@
 | [0075-sort-colors](https://github.com/skummesalma463-pixel/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/skummesalma463-pixel/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/skummesalma463-pixel/leetcode/tree/master/0125-valid-palindrome) |
+| [0143-reorder-list](https://github.com/skummesalma463-pixel/leetcode/tree/master/0143-reorder-list) |
 | [0189-rotate-array](https://github.com/skummesalma463-pixel/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/skummesalma463-pixel/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/skummesalma463-pixel/leetcode/tree/master/0344-reverse-string) |
@@ -192,5 +195,6 @@
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/skummesalma463-pixel/leetcode/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/skummesalma463-pixel/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
