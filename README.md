@@ -30,6 +30,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/skummesalma463-pixel/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/skummesalma463-pixel/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/skummesalma463-pixel/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/skummesalma463-pixel/leetcode/tree/master/0027-remove-element) |
@@ -61,6 +62,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/skummesalma463-pixel/leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/skummesalma463-pixel/leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/skummesalma463-pixel/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/skummesalma463-pixel/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -204,4 +206,8 @@
 | ------- |
 | [0143-reorder-list](https://github.com/skummesalma463-pixel/leetcode/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/skummesalma463-pixel/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/skummesalma463-pixel/leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
