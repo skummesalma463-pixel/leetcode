@@ -49,6 +49,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/skummesalma463-pixel/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/skummesalma463-pixel/leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/skummesalma463-pixel/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/skummesalma463-pixel/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/skummesalma463-pixel/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/skummesalma463-pixel/leetcode/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/skummesalma463-pixel/leetcode/tree/master/0076-minimum-window-substring) |
@@ -71,6 +72,7 @@
 | [0015-3sum](https://github.com/skummesalma463-pixel/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/skummesalma463-pixel/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/skummesalma463-pixel/leetcode/tree/master/0027-remove-element) |
+| [0049-group-anagrams](https://github.com/skummesalma463-pixel/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/skummesalma463-pixel/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/skummesalma463-pixel/leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/skummesalma463-pixel/leetcode/tree/master/0066-plus-one) |
@@ -134,6 +136,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/skummesalma463-pixel/leetcode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/skummesalma463-pixel/leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/skummesalma463-pixel/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/skummesalma463-pixel/leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/skummesalma463-pixel/leetcode/tree/master/0217-contains-duplicate) |
@@ -181,6 +184,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/skummesalma463-pixel/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/skummesalma463-pixel/leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/skummesalma463-pixel/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/skummesalma463-pixel/leetcode/tree/master/0076-minimum-window-substring) |
 | [0217-contains-duplicate](https://github.com/skummesalma463-pixel/leetcode/tree/master/0217-contains-duplicate) |
