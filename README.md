@@ -7,6 +7,7 @@
 | [0002-add-two-numbers](https://github.com/skummesalma463-pixel/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/skummesalma463-pixel/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/skummesalma463-pixel/leetcode/tree/master/0143-reorder-list) |
+| [0234-palindrome-linked-list](https://github.com/skummesalma463-pixel/leetcode/tree/master/0234-palindrome-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -27,6 +28,7 @@
 | [0002-add-two-numbers](https://github.com/skummesalma463-pixel/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/skummesalma463-pixel/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/skummesalma463-pixel/leetcode/tree/master/0143-reorder-list) |
+| [0234-palindrome-linked-list](https://github.com/skummesalma463-pixel/leetcode/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -40,6 +42,7 @@
 | [0125-valid-palindrome](https://github.com/skummesalma463-pixel/leetcode/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/skummesalma463-pixel/leetcode/tree/master/0143-reorder-list) |
 | [0189-rotate-array](https://github.com/skummesalma463-pixel/leetcode/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/skummesalma463-pixel/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/skummesalma463-pixel/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/skummesalma463-pixel/leetcode/tree/master/0344-reverse-string) |
 | [1861-rotating-the-box](https://github.com/skummesalma463-pixel/leetcode/tree/master/1861-rotating-the-box) |
@@ -222,6 +225,7 @@
 | ------- |
 | [0143-reorder-list](https://github.com/skummesalma463-pixel/leetcode/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/skummesalma463-pixel/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/skummesalma463-pixel/leetcode/tree/master/0234-palindrome-linked-list) |
 ## Greedy
 |  |
 | ------- |
