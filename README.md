@@ -99,6 +99,7 @@
 | [0485-max-consecutive-ones](https://github.com/skummesalma463-pixel/leetcode/tree/master/0485-max-consecutive-ones) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/skummesalma463-pixel/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1861-rotating-the-box](https://github.com/skummesalma463-pixel/leetcode/tree/master/1861-rotating-the-box) |
+| [1920-build-array-from-permutation](https://github.com/skummesalma463-pixel/leetcode/tree/master/1920-build-array-from-permutation) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/skummesalma463-pixel/leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 ## Bit Manipulation
 |  |
@@ -135,6 +136,7 @@
 | [0067-add-binary](https://github.com/skummesalma463-pixel/leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/skummesalma463-pixel/leetcode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/skummesalma463-pixel/leetcode/tree/master/0415-add-strings) |
+| [1920-build-array-from-permutation](https://github.com/skummesalma463-pixel/leetcode/tree/master/1920-build-array-from-permutation) |
 ## Memoization
 |  |
 | ------- |
