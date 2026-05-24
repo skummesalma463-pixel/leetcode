@@ -78,6 +78,7 @@
 | [0015-3sum](https://github.com/skummesalma463-pixel/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/skummesalma463-pixel/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/skummesalma463-pixel/leetcode/tree/master/0027-remove-element) |
+| [0039-combination-sum](https://github.com/skummesalma463-pixel/leetcode/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/skummesalma463-pixel/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/skummesalma463-pixel/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/skummesalma463-pixel/leetcode/tree/master/0054-spiral-matrix) |
@@ -258,4 +259,8 @@
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/skummesalma463-pixel/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/skummesalma463-pixel/leetcode/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
