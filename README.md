@@ -21,6 +21,7 @@
 | [0189-rotate-array](https://github.com/skummesalma463-pixel/leetcode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/skummesalma463-pixel/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/skummesalma463-pixel/leetcode/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/skummesalma463-pixel/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/skummesalma463-pixel/leetcode/tree/master/0415-add-strings) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/skummesalma463-pixel/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2235-add-two-integers](https://github.com/skummesalma463-pixel/leetcode/tree/master/2235-add-two-integers) |
@@ -62,6 +63,7 @@
 | [0076-minimum-window-substring](https://github.com/skummesalma463-pixel/leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/skummesalma463-pixel/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/skummesalma463-pixel/leetcode/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/skummesalma463-pixel/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/skummesalma463-pixel/leetcode/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/skummesalma463-pixel/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/skummesalma463-pixel/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -142,6 +144,7 @@
 | [0054-spiral-matrix](https://github.com/skummesalma463-pixel/leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/skummesalma463-pixel/leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/skummesalma463-pixel/leetcode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/skummesalma463-pixel/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/skummesalma463-pixel/leetcode/tree/master/0415-add-strings) |
 | [1920-build-array-from-permutation](https://github.com/skummesalma463-pixel/leetcode/tree/master/1920-build-array-from-permutation) |
 ## Memoization
