@@ -19,6 +19,7 @@
 | [0067-add-binary](https://github.com/skummesalma463-pixel/leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/skummesalma463-pixel/leetcode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/skummesalma463-pixel/leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/skummesalma463-pixel/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/skummesalma463-pixel/leetcode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/skummesalma463-pixel/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/skummesalma463-pixel/leetcode/tree/master/0268-missing-number) |
@@ -65,6 +66,7 @@
 | [0076-minimum-window-substring](https://github.com/skummesalma463-pixel/leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/skummesalma463-pixel/leetcode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/skummesalma463-pixel/leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/skummesalma463-pixel/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/skummesalma463-pixel/leetcode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/skummesalma463-pixel/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/skummesalma463-pixel/leetcode/tree/master/0415-add-strings) |
