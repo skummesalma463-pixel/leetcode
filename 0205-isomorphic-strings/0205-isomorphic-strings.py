@@ -1,19 +1,12 @@
 class Solution:
-    def isIsomorphic(self, s: str, t: str) -> bool:
-        mapST = {}
-        mapTS = {}
-
-        for c1, c2 in zip(s, t):
-            if c1 in mapST:
-                if mapST[c1] != c2:
+    def isIsomorphic(self,s:str,t:str)->bool:
+        mapping={}
+        for i in range(len(s)):
+            if s[i] in mapping:
+                if mapping[s[i]]!=t[i]:
                     return False
             else:
-                mapST[c1] = c2
-
-            if c2 in mapTS:
-                if mapTS[c2] != c1:
+                if t[i] in mapping.values():
                     return False
-            else:
-                mapTS[c2] = c1
-
+                mapping[s[i]]=t[i]
         return True
