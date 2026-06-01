@@ -20,6 +20,7 @@
 | [0070-climbing-stairs](https://github.com/skummesalma463-pixel/leetcode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/skummesalma463-pixel/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/skummesalma463-pixel/leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0172-factorial-trailing-zeroes](https://github.com/skummesalma463-pixel/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/skummesalma463-pixel/leetcode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/skummesalma463-pixel/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/skummesalma463-pixel/leetcode/tree/master/0268-missing-number) |
