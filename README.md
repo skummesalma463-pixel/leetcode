@@ -23,6 +23,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/skummesalma463-pixel/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/skummesalma463-pixel/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/skummesalma463-pixel/leetcode/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/skummesalma463-pixel/leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/skummesalma463-pixel/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/skummesalma463-pixel/leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/skummesalma463-pixel/leetcode/tree/master/0412-fizz-buzz) |
@@ -108,6 +109,7 @@
 | [0136-single-number](https://github.com/skummesalma463-pixel/leetcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/skummesalma463-pixel/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/skummesalma463-pixel/leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/skummesalma463-pixel/leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/skummesalma463-pixel/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/skummesalma463-pixel/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/skummesalma463-pixel/leetcode/tree/master/0268-missing-number) |
@@ -215,6 +217,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/skummesalma463-pixel/leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/skummesalma463-pixel/leetcode/tree/master/0258-add-digits) |
 ## Hash Table
 |  |
@@ -287,4 +290,8 @@
 | ------- |
 | [0039-combination-sum](https://github.com/skummesalma463-pixel/leetcode/tree/master/0039-combination-sum) |
 | [0257-binary-tree-paths](https://github.com/skummesalma463-pixel/leetcode/tree/master/0257-binary-tree-paths) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/skummesalma463-pixel/leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
