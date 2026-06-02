@@ -1,14 +1,8 @@
 class Solution:
     def isPalindrome(self, s: str) -> bool:
-        cleaned = ""
-
-        # keep only alphanumeric characters
+        c = ""
         for ch in s:
             if ch.isalnum():
-                cleaned += ch.lower()
-
-        # reverse the cleaned string
-        rev = cleaned[::-1]
-
-        # compare
-        return cleaned == rev
+                c += ch.lower()
+        rev = c[::-1]
+        return c== rev
