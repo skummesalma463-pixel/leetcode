@@ -192,6 +192,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/skummesalma463-pixel/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/skummesalma463-pixel/leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/skummesalma463-pixel/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/skummesalma463-pixel/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/skummesalma463-pixel/leetcode/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/skummesalma463-pixel/leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
@@ -202,6 +203,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/skummesalma463-pixel/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/skummesalma463-pixel/leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/skummesalma463-pixel/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/skummesalma463-pixel/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/skummesalma463-pixel/leetcode/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/skummesalma463-pixel/leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
@@ -219,6 +221,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/skummesalma463-pixel/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/skummesalma463-pixel/leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/skummesalma463-pixel/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/skummesalma463-pixel/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/skummesalma463-pixel/leetcode/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/skummesalma463-pixel/leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Number Theory
@@ -271,6 +274,7 @@
 | ------- |
 | [0143-reorder-list](https://github.com/skummesalma463-pixel/leetcode/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/skummesalma463-pixel/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/skummesalma463-pixel/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/skummesalma463-pixel/leetcode/tree/master/0234-palindrome-linked-list) |
 ## Greedy
 |  |
