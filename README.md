@@ -127,6 +127,7 @@
 | [1089-duplicate-zeros](https://github.com/skummesalma463-pixel/leetcode/tree/master/1089-duplicate-zeros) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/skummesalma463-pixel/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/skummesalma463-pixel/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/skummesalma463-pixel/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1470-shuffle-the-array](https://github.com/skummesalma463-pixel/leetcode/tree/master/1470-shuffle-the-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/skummesalma463-pixel/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1861-rotating-the-box](https://github.com/skummesalma463-pixel/leetcode/tree/master/1861-rotating-the-box) |
@@ -293,11 +294,13 @@
 | [0076-minimum-window-substring](https://github.com/skummesalma463-pixel/leetcode/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/skummesalma463-pixel/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/skummesalma463-pixel/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/skummesalma463-pixel/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/skummesalma463-pixel/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/skummesalma463-pixel/leetcode/tree/master/0238-product-of-array-except-self) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/skummesalma463-pixel/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Union-Find
 |  |
 | ------- |
