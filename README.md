@@ -136,6 +136,7 @@
 | [2452-words-within-two-edits-of-dictionary](https://github.com/skummesalma463-pixel/leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/skummesalma463-pixel/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/skummesalma463-pixel/leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+| [3689-maximum-total-subarray-value-i](https://github.com/skummesalma463-pixel/leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -289,6 +290,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/skummesalma463-pixel/leetcode/tree/master/0011-container-with-most-water) |
+| [3689-maximum-total-subarray-value-i](https://github.com/skummesalma463-pixel/leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 ## Sliding Window
 |  |
 | ------- |
