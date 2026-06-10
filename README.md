@@ -26,6 +26,7 @@
 | [0204-count-primes](https://github.com/skummesalma463-pixel/leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/skummesalma463-pixel/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/skummesalma463-pixel/leetcode/tree/master/0268-missing-number) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/skummesalma463-pixel/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/skummesalma463-pixel/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/skummesalma463-pixel/leetcode/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/skummesalma463-pixel/leetcode/tree/master/0507-perfect-number) |
@@ -79,6 +80,7 @@
 | [0257-binary-tree-paths](https://github.com/skummesalma463-pixel/leetcode/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/skummesalma463-pixel/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/skummesalma463-pixel/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/skummesalma463-pixel/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/skummesalma463-pixel/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/skummesalma463-pixel/leetcode/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/skummesalma463-pixel/leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -145,6 +147,7 @@
 | [0190-reverse-bits](https://github.com/skummesalma463-pixel/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/skummesalma463-pixel/leetcode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/skummesalma463-pixel/leetcode/tree/master/0268-missing-number) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/skummesalma463-pixel/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Trie
 |  |
 | ------- |
