@@ -84,6 +84,7 @@
 | [0412-fizz-buzz](https://github.com/skummesalma463-pixel/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/skummesalma463-pixel/leetcode/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/skummesalma463-pixel/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0677-map-sum-pairs](https://github.com/skummesalma463-pixel/leetcode/tree/master/0677-map-sum-pairs) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/skummesalma463-pixel/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/skummesalma463-pixel/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/skummesalma463-pixel/leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -153,6 +154,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/skummesalma463-pixel/leetcode/tree/master/0014-longest-common-prefix) |
+| [0677-map-sum-pairs](https://github.com/skummesalma463-pixel/leetcode/tree/master/0677-map-sum-pairs) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/skummesalma463-pixel/leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/skummesalma463-pixel/leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Divide and Conquer
@@ -256,6 +258,7 @@
 | [0242-valid-anagram](https://github.com/skummesalma463-pixel/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/skummesalma463-pixel/leetcode/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/skummesalma463-pixel/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0677-map-sum-pairs](https://github.com/skummesalma463-pixel/leetcode/tree/master/0677-map-sum-pairs) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/skummesalma463-pixel/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/skummesalma463-pixel/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/skummesalma463-pixel/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -344,4 +347,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/skummesalma463-pixel/leetcode/tree/master/0239-sliding-window-maximum) |
+## Design
+|  |
+| ------- |
+| [0677-map-sum-pairs](https://github.com/skummesalma463-pixel/leetcode/tree/master/0677-map-sum-pairs) |
 <!---LeetCode Topics End-->
