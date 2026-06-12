@@ -128,6 +128,7 @@
 | [0485-max-consecutive-ones](https://github.com/skummesalma463-pixel/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/skummesalma463-pixel/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0905-sort-array-by-parity](https://github.com/skummesalma463-pixel/leetcode/tree/master/0905-sort-array-by-parity) |
+| [0930-binary-subarrays-with-sum](https://github.com/skummesalma463-pixel/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1089-duplicate-zeros](https://github.com/skummesalma463-pixel/leetcode/tree/master/1089-duplicate-zeros) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/skummesalma463-pixel/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/skummesalma463-pixel/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -260,6 +261,7 @@
 | [0268-missing-number](https://github.com/skummesalma463-pixel/leetcode/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/skummesalma463-pixel/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0677-map-sum-pairs](https://github.com/skummesalma463-pixel/leetcode/tree/master/0677-map-sum-pairs) |
+| [0930-binary-subarrays-with-sum](https://github.com/skummesalma463-pixel/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/skummesalma463-pixel/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/skummesalma463-pixel/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/skummesalma463-pixel/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -309,6 +311,7 @@
 | [0239-sliding-window-maximum](https://github.com/skummesalma463-pixel/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/skummesalma463-pixel/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/skummesalma463-pixel/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0930-binary-subarrays-with-sum](https://github.com/skummesalma463-pixel/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/skummesalma463-pixel/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/skummesalma463-pixel/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/skummesalma463-pixel/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -317,6 +320,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/skummesalma463-pixel/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0930-binary-subarrays-with-sum](https://github.com/skummesalma463-pixel/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/skummesalma463-pixel/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/skummesalma463-pixel/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Union-Find
