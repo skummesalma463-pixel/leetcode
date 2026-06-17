@@ -130,6 +130,7 @@
 | [0239-sliding-window-maximum](https://github.com/skummesalma463-pixel/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/skummesalma463-pixel/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/skummesalma463-pixel/leetcode/tree/master/0283-move-zeroes) |
+| [0304-range-sum-query-2d-immutable](https://github.com/skummesalma463-pixel/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0485-max-consecutive-ones](https://github.com/skummesalma463-pixel/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/skummesalma463-pixel/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/skummesalma463-pixel/leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -293,6 +294,7 @@
 | [0054-spiral-matrix](https://github.com/skummesalma463-pixel/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/skummesalma463-pixel/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/skummesalma463-pixel/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0304-range-sum-query-2d-immutable](https://github.com/skummesalma463-pixel/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [1861-rotating-the-box](https://github.com/skummesalma463-pixel/leetcode/tree/master/1861-rotating-the-box) |
 ## Binary Search Tree
 |  |
@@ -333,6 +335,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/skummesalma463-pixel/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0304-range-sum-query-2d-immutable](https://github.com/skummesalma463-pixel/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0713-subarray-product-less-than-k](https://github.com/skummesalma463-pixel/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/skummesalma463-pixel/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/skummesalma463-pixel/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -373,5 +376,6 @@
 ## Design
 |  |
 | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/skummesalma463-pixel/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0677-map-sum-pairs](https://github.com/skummesalma463-pixel/leetcode/tree/master/0677-map-sum-pairs) |
 <!---LeetCode Topics End-->
