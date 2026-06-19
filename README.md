@@ -9,6 +9,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/skummesalma463-pixel/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/skummesalma463-pixel/leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/skummesalma463-pixel/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0707-design-linked-list](https://github.com/skummesalma463-pixel/leetcode/tree/master/0707-design-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -380,4 +381,5 @@
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/skummesalma463-pixel/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0677-map-sum-pairs](https://github.com/skummesalma463-pixel/leetcode/tree/master/0677-map-sum-pairs) |
+| [0707-design-linked-list](https://github.com/skummesalma463-pixel/leetcode/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
