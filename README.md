@@ -67,6 +67,7 @@
 | [0283-move-zeroes](https://github.com/skummesalma463-pixel/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/skummesalma463-pixel/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/skummesalma463-pixel/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/skummesalma463-pixel/leetcode/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/skummesalma463-pixel/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/skummesalma463-pixel/leetcode/tree/master/0905-sort-array-by-parity) |
 | [1089-duplicate-zeros](https://github.com/skummesalma463-pixel/leetcode/tree/master/1089-duplicate-zeros) |
@@ -92,6 +93,7 @@
 | [0344-reverse-string](https://github.com/skummesalma463-pixel/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/skummesalma463-pixel/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/skummesalma463-pixel/leetcode/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/skummesalma463-pixel/leetcode/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/skummesalma463-pixel/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/skummesalma463-pixel/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/skummesalma463-pixel/leetcode/tree/master/0415-add-strings) |
@@ -191,6 +193,7 @@
 | [0118-pascals-triangle](https://github.com/skummesalma463-pixel/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/skummesalma463-pixel/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/skummesalma463-pixel/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/skummesalma463-pixel/leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/skummesalma463-pixel/leetcode/tree/master/0509-fibonacci-number) |
 ## Simulation
 |  |
