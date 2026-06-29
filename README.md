@@ -93,6 +93,7 @@
 | [0344-reverse-string](https://github.com/skummesalma463-pixel/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/skummesalma463-pixel/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/skummesalma463-pixel/leetcode/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/skummesalma463-pixel/leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/skummesalma463-pixel/leetcode/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/skummesalma463-pixel/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/skummesalma463-pixel/leetcode/tree/master/0412-fizz-buzz) |
@@ -172,6 +173,7 @@
 | [0190-reverse-bits](https://github.com/skummesalma463-pixel/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/skummesalma463-pixel/leetcode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/skummesalma463-pixel/leetcode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/skummesalma463-pixel/leetcode/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/skummesalma463-pixel/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Trie
 |  |
@@ -223,6 +225,7 @@
 | [0217-contains-duplicate](https://github.com/skummesalma463-pixel/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/skummesalma463-pixel/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/skummesalma463-pixel/leetcode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/skummesalma463-pixel/leetcode/tree/master/0389-find-the-difference) |
 | [0905-sort-array-by-parity](https://github.com/skummesalma463-pixel/leetcode/tree/master/0905-sort-array-by-parity) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/skummesalma463-pixel/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Tree
@@ -288,6 +291,7 @@
 | [0268-missing-number](https://github.com/skummesalma463-pixel/leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/skummesalma463-pixel/leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/skummesalma463-pixel/leetcode/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/skummesalma463-pixel/leetcode/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/skummesalma463-pixel/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0677-map-sum-pairs](https://github.com/skummesalma463-pixel/leetcode/tree/master/0677-map-sum-pairs) |
 | [0930-binary-subarrays-with-sum](https://github.com/skummesalma463-pixel/leetcode/tree/master/0930-binary-subarrays-with-sum) |
