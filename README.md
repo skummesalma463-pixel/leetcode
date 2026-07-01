@@ -34,6 +34,7 @@
 | [0405-convert-a-number-to-hexadecimal](https://github.com/skummesalma463-pixel/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/skummesalma463-pixel/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/skummesalma463-pixel/leetcode/tree/master/0415-add-strings) |
+| [0504-base-7](https://github.com/skummesalma463-pixel/leetcode/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/skummesalma463-pixel/leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/skummesalma463-pixel/leetcode/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/skummesalma463-pixel/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -102,6 +103,7 @@
 | [0434-number-of-segments-in-a-string](https://github.com/skummesalma463-pixel/leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/skummesalma463-pixel/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/skummesalma463-pixel/leetcode/tree/master/0482-license-key-formatting) |
+| [0504-base-7](https://github.com/skummesalma463-pixel/leetcode/tree/master/0504-base-7) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/skummesalma463-pixel/leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0677-map-sum-pairs](https://github.com/skummesalma463-pixel/leetcode/tree/master/0677-map-sum-pairs) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/skummesalma463-pixel/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
