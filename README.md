@@ -188,6 +188,7 @@
 | [0190-reverse-bits](https://github.com/skummesalma463-pixel/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/skummesalma463-pixel/leetcode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/skummesalma463-pixel/leetcode/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/skummesalma463-pixel/leetcode/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/skummesalma463-pixel/leetcode/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/skummesalma463-pixel/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Trie
@@ -212,6 +213,7 @@
 | [0118-pascals-triangle](https://github.com/skummesalma463-pixel/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/skummesalma463-pixel/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/skummesalma463-pixel/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/skummesalma463-pixel/leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/skummesalma463-pixel/leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/skummesalma463-pixel/leetcode/tree/master/0509-fibonacci-number) |
 ## Simulation
