@@ -180,6 +180,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/skummesalma463-pixel/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/skummesalma463-pixel/leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/skummesalma463-pixel/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2765-longest-alternating-subarray](https://github.com/skummesalma463-pixel/leetcode/tree/master/2765-longest-alternating-subarray) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/skummesalma463-pixel/leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/skummesalma463-pixel/leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 ## Bit Manipulation
@@ -415,6 +416,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/skummesalma463-pixel/leetcode/tree/master/0204-count-primes) |
+| [2765-longest-alternating-subarray](https://github.com/skummesalma463-pixel/leetcode/tree/master/2765-longest-alternating-subarray) |
 ## Rolling Hash
 |  |
 | ------- |
