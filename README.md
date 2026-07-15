@@ -159,6 +159,7 @@
 | [0304-range-sum-query-2d-immutable](https://github.com/skummesalma463-pixel/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/skummesalma463-pixel/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/skummesalma463-pixel/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0410-split-array-largest-sum](https://github.com/skummesalma463-pixel/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/skummesalma463-pixel/leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/skummesalma463-pixel/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/skummesalma463-pixel/leetcode/tree/master/0455-assign-cookies) |
@@ -218,6 +219,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/skummesalma463-pixel/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/skummesalma463-pixel/leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/skummesalma463-pixel/leetcode/tree/master/0392-is-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/skummesalma463-pixel/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/skummesalma463-pixel/leetcode/tree/master/0509-fibonacci-number) |
 ## Simulation
 |  |
@@ -335,6 +337,7 @@
 | [0268-missing-number](https://github.com/skummesalma463-pixel/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/skummesalma463-pixel/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/skummesalma463-pixel/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0410-split-array-largest-sum](https://github.com/skummesalma463-pixel/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/skummesalma463-pixel/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/skummesalma463-pixel/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Counting
@@ -373,6 +376,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/skummesalma463-pixel/leetcode/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/skummesalma463-pixel/leetcode/tree/master/0409-longest-palindrome) |
+| [0410-split-array-largest-sum](https://github.com/skummesalma463-pixel/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/skummesalma463-pixel/leetcode/tree/master/0455-assign-cookies) |
 | [3689-maximum-total-subarray-value-i](https://github.com/skummesalma463-pixel/leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 ## Sliding Window
@@ -395,6 +399,7 @@
 | [0238-product-of-array-except-self](https://github.com/skummesalma463-pixel/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/skummesalma463-pixel/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/skummesalma463-pixel/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0410-split-array-largest-sum](https://github.com/skummesalma463-pixel/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/skummesalma463-pixel/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/skummesalma463-pixel/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/skummesalma463-pixel/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
