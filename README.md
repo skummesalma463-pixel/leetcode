@@ -113,6 +113,7 @@
 | [0500-keyboard-row](https://github.com/skummesalma463-pixel/leetcode/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/skummesalma463-pixel/leetcode/tree/master/0504-base-7) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/skummesalma463-pixel/leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
+| [0583-delete-operation-for-two-strings](https://github.com/skummesalma463-pixel/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0677-map-sum-pairs](https://github.com/skummesalma463-pixel/leetcode/tree/master/0677-map-sum-pairs) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/skummesalma463-pixel/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/skummesalma463-pixel/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -227,6 +228,7 @@
 | [0392-is-subsequence](https://github.com/skummesalma463-pixel/leetcode/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/skummesalma463-pixel/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/skummesalma463-pixel/leetcode/tree/master/0509-fibonacci-number) |
+| [0583-delete-operation-for-two-strings](https://github.com/skummesalma463-pixel/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/skummesalma463-pixel/leetcode/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 ## Simulation
 |  |
