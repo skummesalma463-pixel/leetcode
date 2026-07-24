@@ -157,6 +157,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/skummesalma463-pixel/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/skummesalma463-pixel/leetcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/skummesalma463-pixel/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/skummesalma463-pixel/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/skummesalma463-pixel/leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/skummesalma463-pixel/leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/skummesalma463-pixel/leetcode/tree/master/0217-contains-duplicate) |
@@ -218,6 +219,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/skummesalma463-pixel/leetcode/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/skummesalma463-pixel/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/skummesalma463-pixel/leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/skummesalma463-pixel/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/skummesalma463-pixel/leetcode/tree/master/0191-number-of-1-bits) |
 ## Dynamic Programming
@@ -260,6 +262,7 @@
 | [0049-group-anagrams](https://github.com/skummesalma463-pixel/leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/skummesalma463-pixel/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/skummesalma463-pixel/leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/skummesalma463-pixel/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/skummesalma463-pixel/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/skummesalma463-pixel/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/skummesalma463-pixel/leetcode/tree/master/0268-missing-number) |
@@ -328,6 +331,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/skummesalma463-pixel/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/skummesalma463-pixel/leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/skummesalma463-pixel/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/skummesalma463-pixel/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/skummesalma463-pixel/leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/skummesalma463-pixel/leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/skummesalma463-pixel/leetcode/tree/master/0217-contains-duplicate) |
@@ -362,6 +366,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/skummesalma463-pixel/leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/skummesalma463-pixel/leetcode/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/skummesalma463-pixel/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/skummesalma463-pixel/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
