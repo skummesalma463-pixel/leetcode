@@ -44,6 +44,7 @@
 | [1406-stone-game-iii](https://github.com/skummesalma463-pixel/leetcode/tree/master/1406-stone-game-iii) |
 | [2235-add-two-integers](https://github.com/skummesalma463-pixel/leetcode/tree/master/2235-add-two-integers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/skummesalma463-pixel/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/skummesalma463-pixel/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Recursion
 |  |
 | ------- |
@@ -463,6 +464,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/skummesalma463-pixel/leetcode/tree/master/0204-count-primes) |
 | [2765-longest-alternating-subarray](https://github.com/skummesalma463-pixel/leetcode/tree/master/2765-longest-alternating-subarray) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/skummesalma463-pixel/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Rolling Hash
 |  |
 | ------- |
