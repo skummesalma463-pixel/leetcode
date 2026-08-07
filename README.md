@@ -45,6 +45,7 @@
 | [2235-add-two-integers](https://github.com/skummesalma463-pixel/leetcode/tree/master/2235-add-two-integers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/skummesalma463-pixel/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/skummesalma463-pixel/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/skummesalma463-pixel/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -127,6 +128,7 @@
 | [2452-words-within-two-edits-of-dictionary](https://github.com/skummesalma463-pixel/leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/skummesalma463-pixel/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/skummesalma463-pixel/leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/skummesalma463-pixel/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -334,6 +336,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/skummesalma463-pixel/leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/skummesalma463-pixel/leetcode/tree/master/0258-add-digits) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/skummesalma463-pixel/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -419,6 +422,7 @@
 | [0410-split-array-largest-sum](https://github.com/skummesalma463-pixel/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/skummesalma463-pixel/leetcode/tree/master/0455-assign-cookies) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/skummesalma463-pixel/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/skummesalma463-pixel/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/skummesalma463-pixel/leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 ## Sliding Window
 |  |
@@ -459,6 +463,7 @@
 | [0039-combination-sum](https://github.com/skummesalma463-pixel/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/skummesalma463-pixel/leetcode/tree/master/0040-combination-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/skummesalma463-pixel/leetcode/tree/master/0257-binary-tree-paths) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/skummesalma463-pixel/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Enumeration
 |  |
 | ------- |
