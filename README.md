@@ -86,6 +86,7 @@
 | [1089-duplicate-zeros](https://github.com/skummesalma463-pixel/leetcode/tree/master/1089-duplicate-zeros) |
 | [1861-rotating-the-box](https://github.com/skummesalma463-pixel/leetcode/tree/master/1861-rotating-the-box) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/skummesalma463-pixel/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/skummesalma463-pixel/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## String
 |  |
 | ------- |
@@ -128,6 +129,7 @@
 | [2452-words-within-two-edits-of-dictionary](https://github.com/skummesalma463-pixel/leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/skummesalma463-pixel/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/skummesalma463-pixel/leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/skummesalma463-pixel/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/skummesalma463-pixel/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## String Matching
 |  |
@@ -252,6 +254,7 @@
 | [0877-stone-game](https://github.com/skummesalma463-pixel/leetcode/tree/master/0877-stone-game) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/skummesalma463-pixel/leetcode/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1406-stone-game-iii](https://github.com/skummesalma463-pixel/leetcode/tree/master/1406-stone-game-iii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/skummesalma463-pixel/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Simulation
 |  |
 | ------- |
@@ -422,6 +425,7 @@
 | [0410-split-array-largest-sum](https://github.com/skummesalma463-pixel/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/skummesalma463-pixel/leetcode/tree/master/0455-assign-cookies) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/skummesalma463-pixel/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/skummesalma463-pixel/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/skummesalma463-pixel/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/skummesalma463-pixel/leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 ## Sliding Window
