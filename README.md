@@ -40,6 +40,7 @@
 | [0509-fibonacci-number](https://github.com/skummesalma463-pixel/leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/skummesalma463-pixel/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/skummesalma463-pixel/leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/skummesalma463-pixel/leetcode/tree/master/1140-stone-game-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/skummesalma463-pixel/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1406-stone-game-iii](https://github.com/skummesalma463-pixel/leetcode/tree/master/1406-stone-game-iii) |
 | [2235-add-two-integers](https://github.com/skummesalma463-pixel/leetcode/tree/master/2235-add-two-integers) |
@@ -193,6 +194,7 @@
 | [0905-sort-array-by-parity](https://github.com/skummesalma463-pixel/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0930-binary-subarrays-with-sum](https://github.com/skummesalma463-pixel/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1089-duplicate-zeros](https://github.com/skummesalma463-pixel/leetcode/tree/master/1089-duplicate-zeros) |
+| [1140-stone-game-ii](https://github.com/skummesalma463-pixel/leetcode/tree/master/1140-stone-game-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/skummesalma463-pixel/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/skummesalma463-pixel/leetcode/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/skummesalma463-pixel/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -252,6 +254,7 @@
 | [0509-fibonacci-number](https://github.com/skummesalma463-pixel/leetcode/tree/master/0509-fibonacci-number) |
 | [0583-delete-operation-for-two-strings](https://github.com/skummesalma463-pixel/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0877-stone-game](https://github.com/skummesalma463-pixel/leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/skummesalma463-pixel/leetcode/tree/master/1140-stone-game-ii) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/skummesalma463-pixel/leetcode/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1406-stone-game-iii](https://github.com/skummesalma463-pixel/leetcode/tree/master/1406-stone-game-iii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/skummesalma463-pixel/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -451,6 +454,7 @@
 | [0410-split-array-largest-sum](https://github.com/skummesalma463-pixel/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/skummesalma463-pixel/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/skummesalma463-pixel/leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [1140-stone-game-ii](https://github.com/skummesalma463-pixel/leetcode/tree/master/1140-stone-game-ii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/skummesalma463-pixel/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/skummesalma463-pixel/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Union-Find
@@ -513,13 +517,16 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/skummesalma463-pixel/leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/skummesalma463-pixel/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/skummesalma463-pixel/leetcode/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/skummesalma463-pixel/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/skummesalma463-pixel/leetcode/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/skummesalma463-pixel/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/skummesalma463-pixel/leetcode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
