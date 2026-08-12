@@ -211,6 +211,7 @@
 | [2452-words-within-two-edits-of-dictionary](https://github.com/skummesalma463-pixel/leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/skummesalma463-pixel/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2765-longest-alternating-subarray](https://github.com/skummesalma463-pixel/leetcode/tree/master/2765-longest-alternating-subarray) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/skummesalma463-pixel/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/skummesalma463-pixel/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/skummesalma463-pixel/leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/skummesalma463-pixel/leetcode/tree/master/3689-maximum-total-subarray-value-i) |
@@ -380,6 +381,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/skummesalma463-pixel/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/skummesalma463-pixel/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/skummesalma463-pixel/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/skummesalma463-pixel/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/skummesalma463-pixel/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Binary Search
 |  |
@@ -450,6 +452,7 @@
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/skummesalma463-pixel/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/skummesalma463-pixel/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/skummesalma463-pixel/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/skummesalma463-pixel/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Prefix Sum
 |  |
 | ------- |
