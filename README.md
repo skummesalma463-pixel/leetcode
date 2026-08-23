@@ -45,6 +45,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/skummesalma463-pixel/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1406-stone-game-iii](https://github.com/skummesalma463-pixel/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/skummesalma463-pixel/leetcode/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/skummesalma463-pixel/leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/skummesalma463-pixel/leetcode/tree/master/2029-stone-game-ix) |
 | [2235-add-two-integers](https://github.com/skummesalma463-pixel/leetcode/tree/master/2235-add-two-integers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/skummesalma463-pixel/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -131,6 +132,7 @@
 | [0677-map-sum-pairs](https://github.com/skummesalma463-pixel/leetcode/tree/master/0677-map-sum-pairs) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/skummesalma463-pixel/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/skummesalma463-pixel/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1927-sum-game](https://github.com/skummesalma463-pixel/leetcode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/skummesalma463-pixel/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/skummesalma463-pixel/leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/skummesalma463-pixel/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -450,6 +452,7 @@
 | [0410-split-array-largest-sum](https://github.com/skummesalma463-pixel/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/skummesalma463-pixel/leetcode/tree/master/0455-assign-cookies) |
 | [1386-cinema-seat-allocation](https://github.com/skummesalma463-pixel/leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/skummesalma463-pixel/leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/skummesalma463-pixel/leetcode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/skummesalma463-pixel/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/skummesalma463-pixel/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -545,6 +548,7 @@
 | [1140-stone-game-ii](https://github.com/skummesalma463-pixel/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/skummesalma463-pixel/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/skummesalma463-pixel/leetcode/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/skummesalma463-pixel/leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/skummesalma463-pixel/leetcode/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
