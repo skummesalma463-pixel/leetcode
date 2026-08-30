@@ -215,6 +215,7 @@
 | [1861-rotating-the-box](https://github.com/skummesalma463-pixel/leetcode/tree/master/1861-rotating-the-box) |
 | [1920-build-array-from-permutation](https://github.com/skummesalma463-pixel/leetcode/tree/master/1920-build-array-from-permutation) |
 | [2029-stone-game-ix](https://github.com/skummesalma463-pixel/leetcode/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/skummesalma463-pixel/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/skummesalma463-pixel/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/skummesalma463-pixel/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/skummesalma463-pixel/leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -456,6 +457,7 @@
 | [1386-cinema-seat-allocation](https://github.com/skummesalma463-pixel/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/skummesalma463-pixel/leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/skummesalma463-pixel/leetcode/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/skummesalma463-pixel/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/skummesalma463-pixel/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/skummesalma463-pixel/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/skummesalma463-pixel/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
