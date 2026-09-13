@@ -198,6 +198,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/skummesalma463-pixel/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/skummesalma463-pixel/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/skummesalma463-pixel/leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0835-image-overlap](https://github.com/skummesalma463-pixel/leetcode/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/skummesalma463-pixel/leetcode/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/skummesalma463-pixel/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0930-binary-subarrays-with-sum](https://github.com/skummesalma463-pixel/leetcode/tree/master/0930-binary-subarrays-with-sum) |
@@ -435,6 +436,7 @@
 | [0064-minimum-path-sum](https://github.com/skummesalma463-pixel/leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/skummesalma463-pixel/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0304-range-sum-query-2d-immutable](https://github.com/skummesalma463-pixel/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0835-image-overlap](https://github.com/skummesalma463-pixel/leetcode/tree/master/0835-image-overlap) |
 | [1861-rotating-the-box](https://github.com/skummesalma463-pixel/leetcode/tree/master/1861-rotating-the-box) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/skummesalma463-pixel/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Search Tree
