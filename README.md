@@ -54,6 +54,7 @@
 | [3345-smallest-divisible-digit-product-i](https://github.com/skummesalma463-pixel/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/skummesalma463-pixel/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/skummesalma463-pixel/leetcode/tree/master/3524-find-x-value-of-array-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/skummesalma463-pixel/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/skummesalma463-pixel/leetcode/tree/master/3870-count-commas-in-range) |
 ## Recursion
 |  |
@@ -236,6 +237,7 @@
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/skummesalma463-pixel/leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/skummesalma463-pixel/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3524-find-x-value-of-array-i](https://github.com/skummesalma463-pixel/leetcode/tree/master/3524-find-x-value-of-array-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/skummesalma463-pixel/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/skummesalma463-pixel/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3689-maximum-total-subarray-value-i](https://github.com/skummesalma463-pixel/leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/skummesalma463-pixel/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
