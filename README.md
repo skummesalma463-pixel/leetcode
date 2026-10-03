@@ -108,6 +108,7 @@
 | [0020-valid-parentheses](https://github.com/skummesalma463-pixel/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/skummesalma463-pixel/leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/skummesalma463-pixel/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/skummesalma463-pixel/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/skummesalma463-pixel/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/skummesalma463-pixel/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/skummesalma463-pixel/leetcode/tree/master/0067-add-binary) |
@@ -282,6 +283,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/skummesalma463-pixel/leetcode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/skummesalma463-pixel/leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/skummesalma463-pixel/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/skummesalma463-pixel/leetcode/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/skummesalma463-pixel/leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/skummesalma463-pixel/leetcode/tree/master/0070-climbing-stairs) |
@@ -482,6 +484,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/skummesalma463-pixel/leetcode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/skummesalma463-pixel/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0143-reorder-list](https://github.com/skummesalma463-pixel/leetcode/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/skummesalma463-pixel/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/skummesalma463-pixel/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -639,6 +642,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/skummesalma463-pixel/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/skummesalma463-pixel/leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/skummesalma463-pixel/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/skummesalma463-pixel/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/skummesalma463-pixel/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
