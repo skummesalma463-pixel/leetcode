@@ -141,6 +141,7 @@
 | [0583-delete-operation-for-two-strings](https://github.com/skummesalma463-pixel/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0677-map-sum-pairs](https://github.com/skummesalma463-pixel/leetcode/tree/master/0677-map-sum-pairs) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/skummesalma463-pixel/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/skummesalma463-pixel/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/skummesalma463-pixel/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/skummesalma463-pixel/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/skummesalma463-pixel/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -494,6 +495,7 @@
 | [0225-implement-stack-using-queues](https://github.com/skummesalma463-pixel/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/skummesalma463-pixel/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/skummesalma463-pixel/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/skummesalma463-pixel/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/skummesalma463-pixel/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/skummesalma463-pixel/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Greedy
@@ -650,6 +652,7 @@
 | [0022-generate-parentheses](https://github.com/skummesalma463-pixel/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/skummesalma463-pixel/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/skummesalma463-pixel/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/skummesalma463-pixel/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/skummesalma463-pixel/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/skummesalma463-pixel/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
