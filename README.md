@@ -243,6 +243,7 @@
 | [2452-words-within-two-edits-of-dictionary](https://github.com/skummesalma463-pixel/leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/skummesalma463-pixel/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2765-longest-alternating-subarray](https://github.com/skummesalma463-pixel/leetcode/tree/master/2765-longest-alternating-subarray) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/skummesalma463-pixel/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/skummesalma463-pixel/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/skummesalma463-pixel/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/skummesalma463-pixel/leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
@@ -266,6 +267,7 @@
 | [0389-find-the-difference](https://github.com/skummesalma463-pixel/leetcode/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/skummesalma463-pixel/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1386-cinema-seat-allocation](https://github.com/skummesalma463-pixel/leetcode/tree/master/1386-cinema-seat-allocation) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/skummesalma463-pixel/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/skummesalma463-pixel/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/skummesalma463-pixel/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Trie
@@ -441,6 +443,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/skummesalma463-pixel/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/skummesalma463-pixel/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/skummesalma463-pixel/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/skummesalma463-pixel/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/skummesalma463-pixel/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/skummesalma463-pixel/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/skummesalma463-pixel/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -516,6 +519,7 @@
 | [1927-sum-game](https://github.com/skummesalma463-pixel/leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/skummesalma463-pixel/leetcode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/skummesalma463-pixel/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/skummesalma463-pixel/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/skummesalma463-pixel/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/skummesalma463-pixel/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/skummesalma463-pixel/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
