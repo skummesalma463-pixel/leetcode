@@ -250,6 +250,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/skummesalma463-pixel/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3524-find-x-value-of-array-i](https://github.com/skummesalma463-pixel/leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/skummesalma463-pixel/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/skummesalma463-pixel/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/skummesalma463-pixel/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3689-maximum-total-subarray-value-i](https://github.com/skummesalma463-pixel/leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/skummesalma463-pixel/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -355,6 +356,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/skummesalma463-pixel/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/skummesalma463-pixel/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/skummesalma463-pixel/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/skummesalma463-pixel/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Tree
 |  |
 | ------- |
@@ -446,6 +448,7 @@
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/skummesalma463-pixel/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/skummesalma463-pixel/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/skummesalma463-pixel/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/skummesalma463-pixel/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/skummesalma463-pixel/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/skummesalma463-pixel/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Binary Search
