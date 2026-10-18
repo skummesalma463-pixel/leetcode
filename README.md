@@ -47,6 +47,7 @@
 | [1401-circle-and-rectangle-overlapping](https://github.com/skummesalma463-pixel/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/skummesalma463-pixel/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/skummesalma463-pixel/leetcode/tree/master/1510-stone-game-iv) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/skummesalma463-pixel/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1927-sum-game](https://github.com/skummesalma463-pixel/leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/skummesalma463-pixel/leetcode/tree/master/2029-stone-game-ix) |
 | [2235-add-two-integers](https://github.com/skummesalma463-pixel/leetcode/tree/master/2235-add-two-integers) |
@@ -231,6 +232,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/skummesalma463-pixel/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/skummesalma463-pixel/leetcode/tree/master/1470-shuffle-the-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/skummesalma463-pixel/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/skummesalma463-pixel/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/skummesalma463-pixel/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/skummesalma463-pixel/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1861-rotating-the-box](https://github.com/skummesalma463-pixel/leetcode/tree/master/1861-rotating-the-box) |
@@ -286,6 +288,7 @@
 | [0169-majority-element](https://github.com/skummesalma463-pixel/leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/skummesalma463-pixel/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/skummesalma463-pixel/leetcode/tree/master/0191-number-of-1-bits) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/skummesalma463-pixel/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -309,6 +312,7 @@
 | [1406-stone-game-iii](https://github.com/skummesalma463-pixel/leetcode/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/skummesalma463-pixel/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/skummesalma463-pixel/leetcode/tree/master/1510-stone-game-iv) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/skummesalma463-pixel/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/skummesalma463-pixel/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/skummesalma463-pixel/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3524-find-x-value-of-array-i](https://github.com/skummesalma463-pixel/leetcode/tree/master/3524-find-x-value-of-array-i) |
@@ -330,6 +334,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/skummesalma463-pixel/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/skummesalma463-pixel/leetcode/tree/master/0509-fibonacci-number) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/skummesalma463-pixel/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Sorting
 |  |
 | ------- |
@@ -369,6 +374,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/skummesalma463-pixel/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/skummesalma463-pixel/leetcode/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/skummesalma463-pixel/leetcode/tree/master/0572-subtree-of-another-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/skummesalma463-pixel/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -401,6 +407,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/skummesalma463-pixel/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/skummesalma463-pixel/leetcode/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/skummesalma463-pixel/leetcode/tree/master/0572-subtree-of-another-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/skummesalma463-pixel/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Number Theory
 |  |
 | ------- |
@@ -487,6 +494,7 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/skummesalma463-pixel/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/skummesalma463-pixel/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Hash Function
 |  |
 | ------- |
@@ -560,6 +568,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/skummesalma463-pixel/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/skummesalma463-pixel/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Counting Sort
 |  |
 | ------- |
@@ -669,4 +678,12 @@
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/skummesalma463-pixel/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/skummesalma463-pixel/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/skummesalma463-pixel/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Combinatorics
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/skummesalma463-pixel/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/skummesalma463-pixel/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
