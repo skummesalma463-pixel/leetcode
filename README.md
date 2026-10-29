@@ -158,6 +158,7 @@
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/skummesalma463-pixel/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/skummesalma463-pixel/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/skummesalma463-pixel/leetcode/tree/master/3498-reverse-degree-of-a-string) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/skummesalma463-pixel/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/skummesalma463-pixel/leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## String Matching
 |  |
@@ -261,6 +262,7 @@
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/skummesalma463-pixel/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/skummesalma463-pixel/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/skummesalma463-pixel/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/skummesalma463-pixel/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3903-smallest-stable-index-i](https://github.com/skummesalma463-pixel/leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/skummesalma463-pixel/leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Bit Manipulation
@@ -278,6 +280,7 @@
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/skummesalma463-pixel/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/skummesalma463-pixel/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/skummesalma463-pixel/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/skummesalma463-pixel/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Trie
 |  |
 | ------- |
@@ -294,6 +297,7 @@
 | [0190-reverse-bits](https://github.com/skummesalma463-pixel/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/skummesalma463-pixel/leetcode/tree/master/0191-number-of-1-bits) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/skummesalma463-pixel/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/skummesalma463-pixel/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -382,6 +386,7 @@
 | [0257-binary-tree-paths](https://github.com/skummesalma463-pixel/leetcode/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/skummesalma463-pixel/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/skummesalma463-pixel/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/skummesalma463-pixel/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -394,6 +399,7 @@
 | [0257-binary-tree-paths](https://github.com/skummesalma463-pixel/leetcode/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/skummesalma463-pixel/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/skummesalma463-pixel/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/skummesalma463-pixel/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -675,6 +681,7 @@
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/skummesalma463-pixel/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/skummesalma463-pixel/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Ordered Set
 |  |
 | ------- |
@@ -699,4 +706,8 @@
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/skummesalma463-pixel/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/skummesalma463-pixel/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 <!---LeetCode Topics End-->
