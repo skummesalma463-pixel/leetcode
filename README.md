@@ -51,6 +51,7 @@
 | [1927-sum-game](https://github.com/skummesalma463-pixel/leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/skummesalma463-pixel/leetcode/tree/master/2029-stone-game-ix) |
 | [2235-add-two-integers](https://github.com/skummesalma463-pixel/leetcode/tree/master/2235-add-two-integers) |
+| [2409-count-days-spent-together](https://github.com/skummesalma463-pixel/leetcode/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/skummesalma463-pixel/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/skummesalma463-pixel/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/skummesalma463-pixel/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -152,6 +153,7 @@
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/skummesalma463-pixel/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1927-sum-game](https://github.com/skummesalma463-pixel/leetcode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/skummesalma463-pixel/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2409-count-days-spent-together](https://github.com/skummesalma463-pixel/leetcode/tree/master/2409-count-days-spent-together) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/skummesalma463-pixel/leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/skummesalma463-pixel/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/skummesalma463-pixel/leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
