@@ -100,6 +100,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/skummesalma463-pixel/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/skummesalma463-pixel/leetcode/tree/master/0905-sort-array-by-parity) |
 | [1089-duplicate-zeros](https://github.com/skummesalma463-pixel/leetcode/tree/master/1089-duplicate-zeros) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/skummesalma463-pixel/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1861-rotating-the-box](https://github.com/skummesalma463-pixel/leetcode/tree/master/1861-rotating-the-box) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/skummesalma463-pixel/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/skummesalma463-pixel/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -235,6 +236,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/skummesalma463-pixel/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/skummesalma463-pixel/leetcode/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/skummesalma463-pixel/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/skummesalma463-pixel/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/skummesalma463-pixel/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/skummesalma463-pixel/leetcode/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/skummesalma463-pixel/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -377,6 +379,7 @@
 | [0905-sort-array-by-parity](https://github.com/skummesalma463-pixel/leetcode/tree/master/0905-sort-array-by-parity) |
 | [1096-brace-expansion-ii](https://github.com/skummesalma463-pixel/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/skummesalma463-pixel/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/skummesalma463-pixel/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/skummesalma463-pixel/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/skummesalma463-pixel/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/skummesalma463-pixel/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -493,6 +496,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/skummesalma463-pixel/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/skummesalma463-pixel/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/skummesalma463-pixel/leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/skummesalma463-pixel/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/skummesalma463-pixel/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/skummesalma463-pixel/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/skummesalma463-pixel/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
